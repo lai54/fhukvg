@@ -12,7 +12,7 @@ jsproxy_config({
     'defalut': {
       label: '第1通道',
       lines: {
-        '111.111.workers.dev': 1,
+        'yellow-union-fbb1.jeshaikiaygv.workers.dev': 1,
       }
     },
     
@@ -20,7 +20,7 @@ jsproxy_config({
     'defalut1': {
       label: '第2通道',
       lines: {
-        '222.222.workers.dev': 1,
+        'misty-leaf-65d7.jeshaikiaygv.workers.dev': 1,
       }
     },
     
